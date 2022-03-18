@@ -1,9 +1,9 @@
-# java game with sprits
+# java game with sprits and animation
 
-# dragon tail
+# as part of java game development course
 
 
-AN JAVA GAME PROJECT BASE ON SUPER MARIO.
+AN JAVA PROJECT GAME BASE ON SUPER MARIO.
 
 A PART OF FIRST DEGRE PROJECT.
 
