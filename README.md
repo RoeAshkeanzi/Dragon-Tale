@@ -1,6 +1,6 @@
-# java game with sprits and animation
+# An java game with sprits and animation.
 
-# as part of java game development course
+# As part of java game development course.
 
 
 AN JAVA PROJECT GAME BASE ON SUPER MARIO.
